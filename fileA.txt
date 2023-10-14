@@ -1,1 +1,10 @@
 This is file A
+extra line on file A
+
+Added some random lines in file Added
+qwsdfg
+
+wdaesrdf
+qewerdtfg
+dwesfgchv
+wsecgvhjb
