@@ -14,4 +14,3 @@ qbswjsdsf
 new line random
 
 git checkout main added
-added from main branch
